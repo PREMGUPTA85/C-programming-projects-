@@ -1,5 +1,5 @@
 ### C programming projects from basics to advanced.
-### Q1 WAP to calucate sqrt of number.
+ Q1 WAP to calucate sqrt of number.
 
 ```c++
 #include <stdio.h>
