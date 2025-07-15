@@ -1,6 +1,6 @@
-# 🚀 Daily C++ Practice
+# 🚀 Daily C Practice
 
-Welcome to my **Daily C++ Practice Repository**!  
+Welcome to my **Daily C Practice Repository**!  
 I upload one C++ program every day to build strong coding habits, improve logical thinking, and master C++ step-by-step.
 
 ---
@@ -8,7 +8,7 @@ I upload one C++ program every day to build strong coding habits, improve logica
 ## 🎯 Purpose
 
 - ✅ Code consistently every day
-- ✅ Strengthen core C++ concepts
+- ✅ Strengthen core C concepts
 - ✅ Track my progress and growth
 - ✅ Prepare for interviews and competitive programming
 
@@ -22,7 +22,7 @@ Each folder contains one C++ program related to a specific topic.
 ## 📚 Topics Covered
 
 ### 🔰 Basics
-- [x] Introduction to C++
+- [x] Introduction to C
 - [x] Input and Output (`cin`, `cout`)
 - [x] Data Types and Variables
 - [x] Operators (Arithmetic, Logical, Bitwise)
