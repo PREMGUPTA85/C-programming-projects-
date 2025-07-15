@@ -29,8 +29,8 @@ int main () {
 
 ```
 // (21-01-2025)
-// always follow from left to right during complex arithmetic operations
-```
+//### always follow from left to right during complex arithmetic operations
+```c++
 ```
 // modulous always work on integer's not with  float value
 ```
