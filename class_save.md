@@ -76,7 +76,7 @@ int main () {
     return 0;
 }
 ```
-```
+
 #include <stdio.h>
 // left shift 
 int main () {
