@@ -76,7 +76,8 @@ int main () {
     return 0;
 }
 ```
-
+```
+```c++
 #include <stdio.h>
 // left shift 
 int main () {
@@ -85,7 +86,8 @@ int main () {
     printf("%d",c);
     return 0;
 }
-
+```
+```
 #include <stdio.h>
 // Right shift 
 int main () {
