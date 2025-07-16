@@ -27,14 +27,14 @@ int main () {
 }
 ```
 
-```
+
 // (21-01-2025)
 //### always follow from left to right during complex arithmetic operations
-```c++
-```
+
+
 // modulous always work on integer's not with  float value
-```
-```
+
+
 /* Bitwise operator: it operates on data bit by bit 
 6 types of bitwise operator 
 1.Bitwise complement(~)
@@ -44,7 +44,7 @@ int main () {
 5.Bitwise left shift <<
 6.Bitwise right shift >>
 */
-```
+
 ```c++
 #include<stdio.h>
 int main () {
@@ -76,7 +76,7 @@ int main () {
     return 0;
 }
 ```
-```
+
 ```c++
 #include <stdio.h>
 // left shift 
@@ -87,7 +87,7 @@ int main () {
     return 0;
 }
 ```
-```
+```c++
 #include <stdio.h>
 // Right shift 
 int main () {
@@ -96,7 +96,8 @@ int main () {
     printf("%d",c);
     return 0;
 }
-
+```
+```
 // special operator (,) 
 #include <stdio.h>
 int main () {
