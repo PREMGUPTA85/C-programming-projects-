@@ -14,7 +14,7 @@ int main () {
 }
 ```
 
-### Q2how negative sign deals with /(division operator) and %(modulo operator)
+### Q2 How negative sign deals with /(division operator) and %(modulo operator)
 ```c++
 #include <stdio.h>
 #include<math.h>
@@ -28,12 +28,8 @@ int main () {
 ```
 
 
-// (21-01-2025)
+
 //### always follow from left to right during complex arithmetic operations
-
-
-// modulous always work on integer's not with  float value
-
 
 /* Bitwise operator: it operates on data bit by bit 
 6 types of bitwise operator 
@@ -43,6 +39,7 @@ int main () {
 4.Bitwise Xor(^)
 5.Bitwise left shift <<
 6.Bitwise right shift >>
+//modulous always work on integer's not with float value
 */
 
 ```c++
@@ -54,8 +51,6 @@ int main () {
     printf("\n%u",b);  // 4294967285
 }
 ```
-
-//int number store in memory in 16 bits(2 Bytes)
 
 ```c++
 #include <stdio.h>
@@ -98,6 +93,8 @@ int main () {
 }
 ```
 ```
+
+```c++
 // special operator (,) 
 #include <stdio.h>
 int main () {
@@ -190,7 +187,8 @@ int main () {
     }
     return 0;
 }
-
+```
+```
 #include <stdio.h>
 int main () {
     int i, sum = 0;
